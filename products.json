@@ -1,0 +1,28 @@
+{
+    "cars":[
+        {
+            "name": "bmw",
+            "model": 2023,
+            "color": "black",
+            "price": "$200,000"
+        },
+        {
+            "name": "bmw",
+            "model": 2023,
+            "color": "black",
+            "price": "$200,000"
+        },
+        {
+            "name": "bmw",
+            "model": 2023,
+            "color": "black",
+            "price": "$200,000"
+        },
+        {
+            "name": "bmw",
+            "model": 2023,
+            "color": "black",
+            "price": "$200,000"
+        }
+    ]
+}
